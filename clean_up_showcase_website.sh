@@ -36,9 +36,8 @@ git worktree add -B gh-pages public origin/gh-pages
 echo "Cleaning up site"
 cd public && rm -Rf .gitignore .htaccess *
 echo "showcase.kroescontrol.nl" > CNAME
-exit
+
 echo "Updating gh-pages branch"
-cd public 
 git add --all
 git commit -m "Publishing to gh-pages"
 
