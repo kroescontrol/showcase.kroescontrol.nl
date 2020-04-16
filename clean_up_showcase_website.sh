@@ -22,7 +22,7 @@ echo -n "Pulling latest ... "
 git pull -q --rebase
 
 git status
-
+exit
 echo -n "Pushing to github ... "
 git push -q origin master && echo "$(tput setaf 2)Everything up-to-date$(tput sgr0)" || echo echo "$(tput setaf 1) Failed!$(tput sgr0)"
 
