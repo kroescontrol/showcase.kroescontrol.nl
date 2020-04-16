@@ -33,9 +33,8 @@ git push -q origin master && echo "$(tput setaf 2)Everything up-to-date$(tput sg
 echo "Checking out gh-pages branch into public"
 git worktree add -B gh-pages public origin/gh-pages
 
-echo "Generating site"
-echo "hugo lala"
-sleep 3
+echo "Cleaning up site"
+
 mkdir public
 echo "showcase.kroescontrol.nl" > public/CNAME
 
