@@ -36,6 +36,8 @@ git worktree add -B gh-pages public origin/gh-pages
 echo "Generating site"
 echo "hugo lala"
 sleep 3
+mkdir public
+echo "showcase.kroescontrol.nl" > public/CNAME
 
 echo "Updating gh-pages branch"
 cd public 
