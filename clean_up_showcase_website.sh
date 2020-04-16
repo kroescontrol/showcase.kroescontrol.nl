@@ -22,7 +22,7 @@ echo -n "Pulling latest ... "
 git pull -q --rebase
 
 git status
-exit
+
 echo -n "Pushing to github ... "
 git push -q origin master && echo "$(tput setaf 2)Everything up-to-date$(tput sgr0)" || echo echo "$(tput setaf 1) Failed!$(tput sgr0)"
 
@@ -32,7 +32,7 @@ git push -q origin master && echo "$(tput setaf 2)Everything up-to-date$(tput sg
 
 echo "Checking out gh-pages branch into public"
 git worktree add -B gh-pages public origin/gh-pages
-
+exit
 echo "Cleaning up site"
 
 mkdir public
