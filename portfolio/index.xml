@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Service &amp; Diensten on Kroescontrol | IT &amp; More</title>
-    <link>https://showcase.kroescontrol.nl/portfolio/</link>
+    <link>http://showcase.kroescontrol.nl/portfolio/</link>
     <description>Recent content in Service &amp; Diensten on Kroescontrol | IT &amp; More</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
     
-	<atom:link href="https://showcase.kroescontrol.nl/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://showcase.kroescontrol.nl/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Detachering</title>
-      <link>https://showcase.kroescontrol.nl/portfolio/cloud/</link>
+      <link>http://showcase.kroescontrol.nl/portfolio/cloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://showcase.kroescontrol.nl/portfolio/cloud/</guid>
+      <guid>http://showcase.kroescontrol.nl/portfolio/cloud/</guid>
       <description>Bedrijven zijn bij ons aan het juiste adres voor innovatieve oplossingen omtrent talentontwikkeling en capaciteitsvraagstukken.</description>
     </item>
     
     <item>
       <title>Managed services</title>
-      <link>https://showcase.kroescontrol.nl/portfolio/logo/</link>
+      <link>http://showcase.kroescontrol.nl/portfolio/logo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://showcase.kroescontrol.nl/portfolio/logo/</guid>
+      <guid>http://showcase.kroescontrol.nl/portfolio/logo/</guid>
       <description>Wilt u geen extra personeel maar wel uw IT-omgeving in een goede staat?</description>
     </item>
     
     <item>
       <title>Trainingen</title>
-      <link>https://showcase.kroescontrol.nl/portfolio/database/</link>
+      <link>http://showcase.kroescontrol.nl/portfolio/database/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://showcase.kroescontrol.nl/portfolio/database/</guid>
+      <guid>http://showcase.kroescontrol.nl/portfolio/database/</guid>
       <description>Snel en efficiënt uw personeel opleiden? Daarvoor zit u goed bij Kroescontrol.</description>
     </item>
     

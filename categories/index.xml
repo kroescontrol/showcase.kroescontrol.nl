@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kroescontrol | IT &amp; More</title>
-    <link>https://showcase.kroescontrol.nl/categories/</link>
+    <link>http://showcase.kroescontrol.nl/categories/</link>
     <description>Recent content in Categories on Kroescontrol | IT &amp; More</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
     <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
     
-	<atom:link href="https://showcase.kroescontrol.nl/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://showcase.kroescontrol.nl/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Automation System</title>
-      <link>https://showcase.kroescontrol.nl/categories/automation-system/</link>
+      <link>http://showcase.kroescontrol.nl/categories/automation-system/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>https://showcase.kroescontrol.nl/categories/automation-system/</guid>
+      <guid>http://showcase.kroescontrol.nl/categories/automation-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Database Management</title>
-      <link>https://showcase.kroescontrol.nl/categories/database-management/</link>
+      <link>http://showcase.kroescontrol.nl/categories/database-management/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>https://showcase.kroescontrol.nl/categories/database-management/</guid>
+      <guid>http://showcase.kroescontrol.nl/categories/database-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elements</title>
-      <link>https://showcase.kroescontrol.nl/categories/elements/</link>
+      <link>http://showcase.kroescontrol.nl/categories/elements/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>https://showcase.kroescontrol.nl/categories/elements/</guid>
+      <guid>http://showcase.kroescontrol.nl/categories/elements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technology</title>
-      <link>https://showcase.kroescontrol.nl/categories/technology/</link>
+      <link>http://showcase.kroescontrol.nl/categories/technology/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>https://showcase.kroescontrol.nl/categories/technology/</guid>
+      <guid>http://showcase.kroescontrol.nl/categories/technology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web Development</title>
-      <link>https://showcase.kroescontrol.nl/categories/web-development/</link>
+      <link>http://showcase.kroescontrol.nl/categories/web-development/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>https://showcase.kroescontrol.nl/categories/web-development/</guid>
+      <guid>http://showcase.kroescontrol.nl/categories/web-development/</guid>
       <description></description>
     </item>
     

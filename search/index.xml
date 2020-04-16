@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zoekresultaten on Kroescontrol | IT &amp; More</title>
-    <link>https://showcase.kroescontrol.nl/search/</link>
+    <link>http://showcase.kroescontrol.nl/search/</link>
     <description>Recent content in Zoekresultaten on Kroescontrol | IT &amp; More</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
     
-	<atom:link href="https://showcase.kroescontrol.nl/search/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://showcase.kroescontrol.nl/search/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
