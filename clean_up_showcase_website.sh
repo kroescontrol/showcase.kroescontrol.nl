@@ -34,8 +34,9 @@ echo "Checking out gh-pages branch into public"
 git worktree add -B gh-pages public origin/gh-pages
 
 echo "Cleaning up site"
-cd public && rm -Rf .gitignore .htaccess *
-echo "showcase.kroescontrol.nl" > CNAME
+cd public
+rm -Rf .htaccess *
+cp ../static/* 
 
 echo "Updating gh-pages branch"
 git add --all
