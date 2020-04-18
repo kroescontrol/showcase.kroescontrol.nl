@@ -1,1 +1,2 @@
-showcase.kroescontrol.nl
+User-agent: *
+Disallow: /
