@@ -36,7 +36,7 @@ git worktree add -B gh-pages public origin/gh-pages
 echo "Cleaning up site"
 rm -Rf public/.htaccess public/*
 cp static/* public/ 
-exit 1
+
 echo "Updating gh-pages branch"
 git add --all
 git commit -m "Publishing to gh-pages"
