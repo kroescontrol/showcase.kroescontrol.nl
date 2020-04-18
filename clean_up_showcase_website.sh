@@ -37,6 +37,8 @@ echo "Cleaning up site"
 rm -Rf public/.htaccess public/*
 cp static/* public/ 
 
+cd public
+
 echo "Updating gh-pages branch"
 git add --all
 git commit -m "Publishing to gh-pages" || true
